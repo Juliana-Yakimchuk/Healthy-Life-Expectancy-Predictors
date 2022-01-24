@@ -1,0 +1,274 @@
+﻿Country,Location,Note,2020
+World,World,,  7 795 482
+More developed regions,   More developed regions,a,  1 269 277
+Less developed regions,   Less developed regions,b,  6 526 205
+Least developed countries,      Least developed countries,c,  1 073 984
+"Less developed regions, excluding least developed countries","      Less developed regions, excluding least developed countries",d,  5 452 221
+"Less developed regions, excluding China","   Less developed regions, excluding China",,  5 069 640
+High-income countries,   High-income countries,e,  1 207 775
+Middle-income countries,   Middle-income countries,e,  5 852 576
+Lower-middle-income countries,      Lower-middle-income countries,e,  3 182 454
+Upper-middle-income countries,      Upper-middle-income countries,e,  2 670 122
+Low-income countries,   Low-income countries,e,   732 133
+Sub-Saharan Africa,   Sub-Saharan Africa,f,  1 106 573
+Africa,   Africa,,  1 352 622
+Eastern Africa,      Eastern Africa,,   457 440
+Burundi,         Burundi,,   11 939
+Comoros,         Comoros,,870
+Djibouti,         Djibouti,,   1 000
+Eritrea,         Eritrea,,   5 432
+Ethiopia,         Ethiopia,,   112 759
+Kenya,         Kenya,,   53 492
+Madagascar,         Madagascar,,   27 691
+Malawi,         Malawi,,   20 284
+Mauritius,         Mauritius,1,   1 274
+Mayotte,         Mayotte,,273
+Mozambique,         Mozambique,,   32 309
+Réunion,         Réunion,,897
+Rwanda,         Rwanda,,   13 087
+Seychelles,         Seychelles,,96
+Somalia,         Somalia,,   16 105
+South Sudan,         South Sudan,,   13 610
+Uganda,         Uganda,,   47 188
+United Republic of Tanzania,         United Republic of Tanzania,2,   62 775
+Zambia,         Zambia,,   18 679
+Zimbabwe,         Zimbabwe,,   17 680
+Middle Africa,      Middle Africa,,   178 959
+Angola,         Angola,,   32 827
+Cameroon,         Cameroon,,   25 958
+Central African Republic,         Central African Republic,,   4 921
+Chad,         Chad,,   16 285
+Congo,         Congo,,   5 687
+Democratic Republic of the Congo,         Democratic Republic of the Congo,,   89 505
+Equatorial Guinea,         Equatorial Guinea,,   1 406
+Gabon,         Gabon,,   2 151
+Sao Tome and Principe,         Sao Tome and Principe,,218
+Northern Africa,      Northern Africa,,   246 049
+Algeria,         Algeria,,   43 333
+Egypt,         Egypt,,   102 941
+Libya,         Libya,,   6 662
+Morocco,         Morocco,,   37 071
+Sudan,         Sudan,,   43 541
+Tunisia,         Tunisia,,   11 903
+Western Sahara,         Western Sahara,,597
+Southern Africa,      Southern Africa,,   67 595
+Botswana,         Botswana,,   2 416
+Lesotho,         Lesotho,,   2 322
+Namibia,         Namibia,,   2 697
+South Africa,         South Africa,,   58 721
+Swaziland,         Swaziland,,   1 439
+Western Africa,      Western Africa,,   402 579
+Benin,         Benin,,   12 123
+Burkina Faso,         Burkina Faso,,   20 903
+Cabo Verde,         Cabo Verde,,567
+Côte d'Ivoire,         Côte d'Ivoire,,   26 172
+Gambia,         Gambia,,   2 293
+Ghana,         Ghana,,   30 734
+Guinea,         Guinea,,   13 751
+Guinea-Bissau,         Guinea-Bissau,,   2 001
+Liberia,         Liberia,,   5 104
+Mali,         Mali,,   20 284
+Mauritania,         Mauritania,,   4 784
+Niger,         Niger,,   24 075
+Nigeria,         Nigeria,,   206 153
+Saint Helena,         Saint Helena,3,4
+Senegal,         Senegal,,   17 200
+Sierra Leone,         Sierra Leone,,   8 047
+Togo,         Togo,,   8 384
+Asia,   Asia,,  4 623 454
+Eastern Asia,      Eastern Asia,,  1 663 619
+China,         China,4,  1 424 548
+"China, Hong Kong SAR","         China, Hong Kong SAR",5,   7 548
+"China, Macao SAR","         China, Macao SAR",6,652
+"China, Taiwan Province of China","         China, Taiwan Province of China",,   23 818
+Dem. People's Republic of Korea,         Dem. People's Republic of Korea,,   25 841
+Japan,         Japan,,   126 496
+Mongolia,         Mongolia,,   3 209
+Republic of Korea,         Republic of Korea,,   51 507
+South-Central Asia,      South-Central Asia,7,  2 009 437
+Central Asia,         Central Asia,,   73 821
+Kazakhstan,            Kazakhstan,,   18 777
+Kyrgyzstan,            Kyrgyzstan,,   6 302
+Tajikistan,            Tajikistan,,   9 475
+Turkmenistan,            Turkmenistan,,   6 031
+Uzbekistan,            Uzbekistan,,   33 236
+Southern Asia,         Southern Asia,,  1 935 616
+Afghanistan,            Afghanistan,,   38 055
+Bangladesh,            Bangladesh,,   169 775
+Bhutan,            Bhutan,,835
+India,            India,,  1 383 198
+Iran (Islamic Republic of),            Iran (Islamic Republic of),,   83 587
+Maldives,            Maldives,,459
+Nepal,            Nepal,,   30 260
+Pakistan,            Pakistan,,   208 362
+Sri Lanka,            Sri Lanka,,   21 084
+South-Eastern Asia,      South-Eastern Asia,,   669 016
+Brunei Darussalam,         Brunei Darussalam,,445
+Cambodia,         Cambodia,,   16 716
+Indonesia,         Indonesia,,   272 223
+Lao People's Democratic Republic,         Lao People's Democratic Republic,,   7 165
+Malaysia,         Malaysia,8,   32 869
+Myanmar,         Myanmar,,   54 808
+Philippines,         Philippines,,   109 703
+Singapore,         Singapore,,   5 935
+Thailand,         Thailand,,   69 411
+Timor-Leste,         Timor-Leste,,   1 381
+Viet Nam,         Viet Nam,,   98 360
+Western Asia,      Western Asia,,   281 382
+Armenia,         Armenia,,   2 939
+Azerbaijan,         Azerbaijan,9,   10 100
+Bahrain,         Bahrain,,   1 698
+Cyprus,         Cyprus,10,   1 207
+Georgia,         Georgia,11,   3 899
+Iraq,         Iraq,,   41 503
+Israel,         Israel,,   8 714
+Jordan,         Jordan,,   10 209
+Kuwait,         Kuwait,,   4 303
+Lebanon,         Lebanon,,   6 020
+Oman,         Oman,,   5 150
+Qatar,         Qatar,,   2 792
+Saudi Arabia,         Saudi Arabia,,   34 710
+State of Palestine,         State of Palestine,12,   5 323
+Syrian Arab Republic,         Syrian Arab Republic,,   18 924
+Turkey,         Turkey,,   83 836
+United Arab Emirates,         United Arab Emirates,,   9 813
+Yemen,         Yemen,,   30 245
+Europe,   Europe,,   743 390
+Eastern Europe,      Eastern Europe,,   290 776
+Belarus,         Belarus,,   9 415
+Bulgaria,         Bulgaria,,   6 941
+Czechia,         Czechia,,   10 633
+Hungary,         Hungary,,   9 621
+Poland,         Poland,,   37 942
+Republic of Moldova,         Republic of Moldova,13,   4 018
+Romania,         Romania,,   19 388
+Russian Federation,         Russian Federation,,   143 787
+Slovakia,         Slovakia,,   5 451
+Ukraine,         Ukraine,14,   43 579
+Northern Europe,      Northern Europe,,   105 863
+Channel Islands,         Channel Islands,15,168
+Denmark,         Denmark,,   5 797
+Estonia,         Estonia,,   1 301
+Faeroe Islands,         Faeroe Islands,,50
+Finland,         Finland,16,   5 580
+Iceland,         Iceland,,343
+Ireland,         Ireland,,   4 888
+Isle of Man,         Isle of Man,,86
+Latvia,         Latvia,,   1 893
+Lithuania,         Lithuania,,   2 852
+Norway,         Norway,17,   5 450
+Sweden,         Sweden,,   10 122
+United Kingdom,         United Kingdom,,   67 334
+Southern Europe,      Southern Europe,,   151 553
+Albania,         Albania,,   2 942
+Andorra,         Andorra,,77
+Bosnia and Herzegovina,         Bosnia and Herzegovina,,   3 498
+Croatia,         Croatia,,   4 116
+Gibraltar,         Gibraltar,,35
+Greece,         Greece,,   11 103
+Holy See,         Holy See,18,1
+Italy,         Italy,,   59 132
+Malta,         Malta,,434
+Montenegro,         Montenegro,,629
+Portugal,         Portugal,,   10 218
+San Marino,         San Marino,,34
+Serbia,         Serbia,19,   8 704
+Slovenia,         Slovenia,,   2 082
+Spain,         Spain,20,   46 459
+TFYR Macedonia,         TFYR Macedonia,21,   2 088
+Western Europe,      Western Europe,,   195 197
+Austria,         Austria,,   8 782
+Belgium,         Belgium,,   11 620
+France,         France,,   65 721
+Germany,         Germany,,   82 540
+Liechtenstein,         Liechtenstein,,39
+Luxembourg,         Luxembourg,,604
+Monaco,         Monaco,,39
+Netherlands,         Netherlands,,   17 181
+Switzerland,         Switzerland,,   8 671
+Latin America and the Caribbean,   Latin America and the Caribbean,,   664 474
+Caribbean,      Caribbean,,   44 679
+Anguilla,         Anguilla,,15
+Antigua and Barbuda,         Antigua and Barbuda,,105
+Aruba,         Aruba,,106
+Bahamas,         Bahamas,,407
+Barbados,         Barbados,,288
+British Virgin Islands,         British Virgin Islands,,33
+Caribbean Netherlands,         Caribbean Netherlands,22,26
+Cayman Islands,         Cayman Islands,,64
+Cuba,         Cuba,,   11 495
+Curaçao,         Curaçao,,163
+Dominica,         Dominica,,75
+Dominican Republic,         Dominican Republic,,   11 108
+Grenada,         Grenada,,109
+Guadeloupe,         Guadeloupe,23,448
+Haiti,         Haiti,,   11 371
+Jamaica,         Jamaica,,   2 913
+Martinique,         Martinique,,385
+Montserrat,         Montserrat,,5
+Puerto Rico,         Puerto Rico,,   3 651
+Saint Kitts and Nevis,         Saint Kitts and Nevis,,57
+Saint Lucia,         Saint Lucia,,181
+Saint Vincent and the Grenadines,         Saint Vincent and the Grenadines,,111
+Sint Maarten (Dutch part),         Sint Maarten (Dutch part),,41
+Trinidad and Tobago,         Trinidad and Tobago,,   1 378
+Turks and Caicos Islands,         Turks and Caicos Islands,,37
+United States Virgin Islands,         United States Virgin Islands,,105
+Central America,      Central America,,   184 127
+Belize,         Belize,,398
+Costa Rica,         Costa Rica,,   5 044
+El Salvador,         El Salvador,,   6 479
+Guatemala,         Guatemala,,   17 911
+Honduras,         Honduras,,   9 719
+Mexico,         Mexico,,   133 870
+Nicaragua,         Nicaragua,,   6 417
+Panama,         Panama,,   4 289
+South America,      South America,,   435 667
+Argentina,         Argentina,,   45 510
+Bolivia (Plurinational State of),         Bolivia (Plurinational State of),,   11 544
+Brazil,         Brazil,,   213 863
+Chile,         Chile,,   18 473
+Colombia,         Colombia,,   50 220
+Ecuador,         Ecuador,,   17 336
+Falkland Islands (Malvinas),         Falkland Islands (Malvinas),24,3
+French Guiana,         French Guiana,,304
+Guyana,         Guyana,,791
+Paraguay,         Paraguay,,   7 066
+Peru,         Peru,,   33 312
+Suriname,         Suriname,,578
+Uruguay,         Uruguay,,   3 494
+Venezuela (Bolivarian Republic of),         Venezuela (Bolivarian Republic of),,   33 172
+Northern America,   Northern America,,   369 159
+Bermuda,      Bermuda,,61
+Canada,      Canada,,   37 603
+Greenland,      Greenland,,57
+Saint Pierre and Miquelon,      Saint Pierre and Miquelon,,6
+United States of America,      United States of America,,   331 432
+Oceania,   Oceania,,   42 384
+Australia/New Zealand,      Australia/New Zealand,,   30 233
+Australia,         Australia,25,   25 398
+New Zealand,         New Zealand,,   4 834
+Melanesia,      Melanesia,,   10 909
+Fiji,         Fiji,,925
+New Caledonia,         New Caledonia,,287
+Papua New Guinea,         Papua New Guinea,,   8 756
+Solomon Islands,         Solomon Islands,,647
+Vanuatu,         Vanuatu,,294
+Micronesia,      Micronesia,,541
+Guam,         Guam,,169
+Kiribati,         Kiribati,,122
+Marshall Islands,         Marshall Islands,,53
+Micronesia (Fed. States of),         Micronesia (Fed. States of),,108
+Nauru,         Nauru,,11
+Northern Mariana Islands,         Northern Mariana Islands,,55
+Palau,         Palau,,22
+Polynesia,      Polynesia,,701
+American Samoa,         American Samoa,,56
+Cook Islands,         Cook Islands,,18
+French Polynesia,         French Polynesia,,291
+Niue,         Niue,,2
+Samoa,         Samoa,,200
+Tokelau,         Tokelau,,1
+Tonga,         Tonga,,111
+Tuvalu,         Tuvalu,,11
+Wallis and Futuna Islands,         Wallis and Futuna Islands,,12
